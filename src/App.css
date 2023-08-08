@@ -1,0 +1,98 @@
+body{
+ 
+  background-image:linear-gradient(90deg, rgb(226, 137, 137), rgb(94, 94, 234)) ;
+
+}
+.lnk{
+  position: relative;
+  top: -8px;
+  width: 101.3%;
+  left: -10px;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(9, 9, 142);
+  height: 50px;
+ align-items: center;
+ font-family: 'Dancing Script', cursive;
+ 
+ 
+}
+.l{
+  color: aliceblue;
+  text-decoration: none;
+font-size: 26px;
+}
+td{
+  height: 50px;
+  text-align: center;
+  background-color: aliceblue;
+}
+table{
+  margin: 20px;
+
+}
+td{
+  width: 250px;
+}
+th{
+  height: 50px;
+  text-align: center;
+  background-color: aliceblue;
+}
+#h2{
+  margin-left:20px ;
+  margin-bottom: 30px;
+}
+.sp{
+position: absolute;
+right: 65px;
+background-color: aliceblue;
+padding: 10px;
+width: 150px;
+text-align: center;
+border-radius: 50px;
+border: 1px solid;
+font-size: 17px;
+cursor: pointer;
+}
+.minp{
+  display: flex;
+  gap: 50px;
+  position: absolute;
+  transform: translate(30%,0%);
+  font-size: 28px;
+}
+.nm1{
+  margin: 60px;
+}
+#name{
+  padding: 10px;
+}
+#Age{
+  padding: 10px;
+}
+#course{
+  padding: 10px;
+}
+#Batch{
+  padding: 10px;
+}
+.btn{
+display: flex;
+gap: 50px;
+position: absolute;
+transform: translate(220%,650%);
+
+}
+.btn1{
+  padding: 10px;
+  width: 100px;
+  border-top-left-radius: 20px;
+ border-bottom-right-radius: 20px;
+}
+.btn2{
+  padding: 10px;
+  width: 100px;
+  border-top-left-radius: 20px;
+ border-bottom-right-radius: 20px;
+}
